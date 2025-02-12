@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Philip Mo</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h3 align="center">A very passionate Data Analyst</h3>
 
 <p>I'm a Data Analyst who tries to uncover the message that data is trying to teach us and a BI Analyst who loves to share what I discover through thoughtful Visualizations from Tableau.</p>
 
