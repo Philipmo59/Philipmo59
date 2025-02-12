@@ -5,7 +5,7 @@
 
 <p>Some of you may think:</p>
 
-<p>What is the difference? Why not just display what panda and matplotlib presents? Well because ITS NOT PRETTY! You have to love all the colors and graphs that Tableau can present to you</p>
+<p>What is the difference? Why not just display what panda and matplotlib presents? Well because ITS NOT PRETTY! You have to love all the colors and graphs that Tableau can present to you.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
