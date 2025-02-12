@@ -3,7 +3,7 @@
 
 <p>I'm a Data Analyst who tries to uncover the message that data is trying to teach us and a BI Analyst who loves to share what I discover through thoughtful Visualizations from Tableau.</p>
 
-<p>Some of you may think: What is the difference? Why not just displaywhat panda and matplotlib presents? Well because ITS NOT PRETTY!</p>
+<p>Some of you may think: What is the difference? Why not just display what panda and matplotlib presents? Well because ITS NOT PRETTY! You have to love all the colors and graphs that Tableau can present to you</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
