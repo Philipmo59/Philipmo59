@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Philip Mo</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
+<p>I'm a Data Analyst who tries to uncover the message that data is trying to teach us and a BI Analyst who loves to share what I discover through thoughtful Visualizations from Tableau.</p>
+
+<p>Some of you may think: What is the difference? Why not just displaywhat panda and matplotlib presents? Well because ITS NOT PRETTY!</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/philipmo59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="philipmo59" height="30" width="40" /></a>
