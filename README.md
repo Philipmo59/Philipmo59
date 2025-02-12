@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋, I'm Philip Mo
+<h3>A Data Analyst</h3>
 
 <!--
 **Philipmo59/Philipmo59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
